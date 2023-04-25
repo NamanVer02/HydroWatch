@@ -20,7 +20,13 @@ This monitoring of the nutrient soltuion can be acheived using sensors and an ar
 
 ## How to Use
 
+1) We first place the pH sensor and the TDS sensor into the nutrient solution and place the temperature sensor nearby.
+2) Then connect the sensors and the Wifi module to the Arduino board.
+3) Load the Arduino code and run.
+4) The Arduino board continuously records the data and sends it to the website which can be accessed by the user.
 
+## Conritbutors
 
-
-
+1) Madhulika Majumder ()
+2) Naman Verma ()
+3) Saumye Saran Das ()
