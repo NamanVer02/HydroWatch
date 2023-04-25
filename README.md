@@ -27,6 +27,6 @@ This monitoring of the nutrient soltuion can be acheived using sensors and an ar
 
 ## Conritbutors
 
-1) Madhulika Majumder ()
-2) Naman Verma ()
-3) Saumye Saran Das ()
+1) Madhulika Majumder
+2) Naman Verma (https://github.com/NamanVer02)
+3) Saumye Saran Das (https://github.com/Saumye13)
