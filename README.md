@@ -1,32 +1,23 @@
 # HydroWatch
 
-Welcome to HydroWatch! This project monitors the contents of the nutrient solution in realtime and enable the user to change the contents even from a remote location.
-
-## Description
-
-This project allows a user to monitor and alter a Hydroponics farm in realtime even from a remote location. 
-To ensure the best possible conditions for the growth of the plants, we use the respective sensors to monitor the -
-1) pH Level of the nutrient solution
-2) Temperature of the environment
-3) Total Dissolved Salts (TDS) of the nutrient solution
-
-We also made a website to showcase the current pH, temoerature and the TDS of the hydroponics farm.
+HydroWatch is a hydroponic system monitoring service that leverages technology to optimize plant growth and minimize crop failure risks. Through real-time data collection and analysis, HydroWatch provides actionable insights to growers, helping them make informed decisions and prevent crop losses. With the potential to revolutionize indoor plant cultivation, HydroWatch promises to improve produce quality and yield while reducing manual monitoring efforts and costs for growers.
 
 ## Problem Statement
 
-Even though hydroponics farms have numerous advantages over conventional farming like having a greater yield and optimal use of nutrients and location, they are not popular because the maintainance and monitoring costs are very high and time consuming. Plants growing in hydroponic farming are more sensitive to changes and therefore the nutrient solution has to be monitored frequently and may require tweaking if the plants' growth is not as desired.
+Hydroponics, despite its potential for efficient and sustainable plant cultivation, often faces challenges when it comes to monitoring and setting up the system on a commercial scale. Traditional hydroponic systems require meticulous monitoring of parameters such as TDS, pH, and temperature, which can be time-consuming, labor-intensive, and prone to human error. This can result in suboptimal plant growth, reduced yields, and increased risk of crop failure.
 
-This monitoring of the nutrient soltuion can be acheived using sensors and an arduino board and this data can be showed to the user through a website and even an app. Moreover we can create a database which stores the data of each hydroponic farm of the user and help them gain insights into their farming methods and results.
+## Description
 
-## How to Use
+HydroWatch is an innovative hydroponic system monitoring service that employs state-of-the-art technology to optimize plant growth in indoor environments. The system utilizes three key sensors - TDS sensor, pH sensor, and temperature sensor - which are all integrated with an Arduino microcontroller for precise and automated monitoring of critical parameters.
 
-1) We first place the pH sensor and the TDS sensor into the nutrient solution and place the temperature sensor nearby.
-2) Then connect the sensors and the Wifi module to the Arduino board.
-3) Load the Arduino code and run.
-4) The Arduino board continuously records the data and sends it to the website which can be accessed by the user.
+The TDS sensor measures the concentration of dissolved nutrients in the water, providing insights into nutrient levels and ensuring optimal nutrition for plants. The pH sensor measures the acidity or alkalinity of the water, helping maintain the ideal pH range for hydroponic plants. The temperature sensor monitors the ambient temperature, ensuring that the growing environment remains within the optimal temperature range for plant growth.
+
+All the sensor data is collected in real-time and transmitted to a cloud-based server for analysis. The system employs machine learning algorithms to analyze the data and provide growers with actionable insights on nutrient adjustments, pH balancing, and temperature control to optimize plant growth.
+
+HydroWatch promises to revolutionize hydroponic cultivation by providing growers with accurate and timely information to make informed decisions. The automated monitoring through TDS sensor, pH sensor, and temperature sensor, controlled by Arduino, reduces the need for manual monitoring, saving time and effort for growers. With its advanced technology and real-time data analysis, HydroWatch aims to improve the quality and yield of hydroponically grown plants, making it an essential tool for modern indoor agriculture.
 
 ## Conritbutors
 
 1) Madhulika Majumder
-2) Naman Verma (https://github.com/NamanVer02)
-3) Saumye Saran Das (https://github.com/Saumye13)
+2) [Naman Verma](https://github.com/NamanVer02)
+3) [Saumye Saran Das](https://github.com/Saumye13)
