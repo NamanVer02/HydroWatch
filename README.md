@@ -16,12 +16,15 @@ The TDS sensor measures the concentration of dissolved nutrients in the water, p
 
 All the sensor data is collected in real-time and transmitted to a cloud-based server for analysis. The system employs machine learning algorithms to analyze the data and provide growers with actionable insights on nutrient adjustments, pH balancing, and temperature control to optimize plant growth.
 
+![Img]()
+
 HydroWatch promises to revolutionize hydroponic cultivation by providing growers with accurate and timely information to make informed decisions. The automated monitoring through TDS sensor, pH sensor, and temperature sensor, controlled by Arduino, reduces the need for manual monitoring, saving time and effort for growers. With its advanced technology and real-time data analysis, HydroWatch aims to improve the quality and yield of hydroponically grown plants, making it an essential tool for modern indoor agriculture.
 
 
 ## Important Links
-1) [Video Presentation](https://youtu.be/72_th0ybvak)
-2) [Google Document](https://docs.google.com/document/d/1MWixLUo2Dwsh4no61meE1ENsPlRlX8dMh-FRky76xa0/edit?usp=sharing)
+1) [HydroWatch](http://35.228.160.214/index.php?temp=40&ph=6.3&tds=1140) 
+2) [Video Presentation](https://youtu.be/72_th0ybvak)
+3) [Google Document](https://docs.google.com/document/d/1MWixLUo2Dwsh4no61meE1ENsPlRlX8dMh-FRky76xa0/edit?usp=sharing)
 
 
 ## Conritbutors
