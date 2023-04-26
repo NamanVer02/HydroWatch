@@ -2,9 +2,11 @@
 
 HydroWatch is a hydroponic system monitoring service that leverages technology to optimize plant growth and minimize crop failure risks. Through real-time data collection and analysis, HydroWatch provides actionable insights to growers, helping them make informed decisions and prevent crop losses. With the potential to revolutionize indoor plant cultivation, HydroWatch promises to improve produce quality and yield while reducing manual monitoring efforts and costs for growers.
 
+
 ## Problem Statement
 
 Hydroponics, despite its potential for efficient and sustainable plant cultivation, often faces challenges when it comes to monitoring and setting up the system on a commercial scale. Traditional hydroponic systems require meticulous monitoring of parameters such as TDS, pH, and temperature, which can be time-consuming, labor-intensive, and prone to human error. This can result in suboptimal plant growth, reduced yields, and increased risk of crop failure.
+
 
 ## Description
 
@@ -16,8 +18,14 @@ All the sensor data is collected in real-time and transmitted to a cloud-based s
 
 HydroWatch promises to revolutionize hydroponic cultivation by providing growers with accurate and timely information to make informed decisions. The automated monitoring through TDS sensor, pH sensor, and temperature sensor, controlled by Arduino, reduces the need for manual monitoring, saving time and effort for growers. With its advanced technology and real-time data analysis, HydroWatch aims to improve the quality and yield of hydroponically grown plants, making it an essential tool for modern indoor agriculture.
 
+
+## Important Links
+1) [Video Presentation](https://youtu.be/72_th0ybvak)
+2) [Google Document](https://docs.google.com/document/d/1MWixLUo2Dwsh4no61meE1ENsPlRlX8dMh-FRky76xa0/edit?usp=sharing)
+
+
 ## Conritbutors
 
-1) Madhulika Majumder
+1) [Madhulika Majumder](https://github.com/Madhulika7)
 2) [Naman Verma](https://github.com/NamanVer02)
 3) [Saumye Saran Das](https://github.com/Saumye13)
