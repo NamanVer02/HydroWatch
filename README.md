@@ -1,5 +1,8 @@
 # HydroWatch
 
+##Note
+The service is unavailable as of now due to expiration of Google Cloud account.
+
 HydroWatch is a hydroponic system monitoring service that leverages technology to optimize plant growth and minimize crop failure risks. Through real-time data collection and analysis, HydroWatch provides actionable insights to growers, helping them make informed decisions and prevent crop losses. With the potential to revolutionize indoor plant cultivation, HydroWatch promises to improve produce quality and yield while reducing manual monitoring efforts and costs for growers.
 
 
